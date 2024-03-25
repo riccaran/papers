@@ -1,5 +1,3 @@
-biotechnological character project aimed at an in silico study and design for molecular dynamics laboratory and subsequent protein engineering wet lab
-
 made in 2018 and restored / translated in 2024
 
 tools used and for what...
